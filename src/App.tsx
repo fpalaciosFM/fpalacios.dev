@@ -1,4 +1,4 @@
-import { FiArrowRight, FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
+import { FiArrowRight, FiGithub, FiLinkedin } from 'react-icons/fi';
 
 function App() {
   return (
